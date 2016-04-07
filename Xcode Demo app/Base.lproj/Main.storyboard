@@ -17,21 +17,18 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="003" translatesAutoresizingMaskIntoConstraints="NO" id="5Nf-Uk-sCC">
-                                <rect key="frame" x="-20" y="283" width="240" height="128"/>
-                            </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="009" translatesAutoresizingMaskIntoConstraints="NO" id="WRL-I1-zH8">
-                                <rect key="frame" x="40" y="183" width="240" height="128"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Hp LOOGO" translatesAutoresizingMaskIntoConstraints="NO" id="ZqW-iZ-bZy">
+                                <rect key="frame" x="40" y="185" width="240" height="167"/>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZBj-jj-y7F">
-                                <rect key="frame" x="36" y="20" width="248" height="124"/>
+                                <rect key="frame" x="36" y="15" width="248" height="147"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="23"/>
                                 <state key="normal" title="HONGPIN">
-                                    <color key="titleColor" red="1" green="0.67919046642865011" blue="0.21503947901514686" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleColor" red="0.7019608021" green="0.7019608021" blue="0.7019608021" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" red="0.20001041666666663" green="0.17249294389916564" blue="0.18592453246344115" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <color key="tintColor" red="0.65068277801029717" green="1" blue="0.95819798678459456" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                     <toolbarItems/>
@@ -40,11 +37,10 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="350" y="303"/>
+            <point key="canvasLocation" x="424" y="355"/>
         </scene>
     </scenes>
     <resources>
-        <image name="003" width="412" height="770"/>
-        <image name="009" width="1920" height="1080"/>
+        <image name="Hp LOOGO" width="356" height="368"/>
     </resources>
 </document>
